@@ -2,11 +2,12 @@ V(=^･ω･^=)v
 
 ## About the Project
 
-This project contains a web application developed by Deniz Caliskan for portfolio purposes. I created this project to serve as a showcase for my projects. Feel free to explore and get in touch if you have any questions or if you'd like to discuss potential collaborations.
+I have developed this web application for my portfolio purposes. I created it to showcase my projects. Feel free to explore, and don't hesitate to reach out if you have any questions or if you'd like to discuss potential collaborations.
+
 
 ## Development Information
 
-This project was developed by Deniz Caliskan in the year 2023. All code belongs to Deniz Caliskan.
+I developed this project in the year 2023. All code within this project belongs to me, Deniz Caliskan.
 
 ## Contact
 
