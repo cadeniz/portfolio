@@ -1,4 +1,4 @@
-## V(=^･ω･^=)v
+V(=^･ω･^=)v
 
 ## About the Project
 
