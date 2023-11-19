@@ -317,6 +317,7 @@ a, a:visited, a:hover, a:active {
   grid-column-start: 2;
   grid-row-end: 5;
   grid-column-end: 4;
+  margin-top: -90px;
 }
 
 #ContactFooter {
@@ -614,16 +615,7 @@ a, a:visited, a:hover, a:active {
     grid-column-end: 3;
     
   }
-  
-  #ContactButtons {
 
-    grid-row-start: 5;
-    grid-column-start: 2;
-  
-    grid-row-end: 6;
-    grid-column-end: 4;
-    
-  }
   
   #ContactFooter {
   
