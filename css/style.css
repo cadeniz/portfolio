@@ -35,18 +35,6 @@ a, a:visited, a:hover, a:active {
   color: inherit;
 }
 
-.menuitem {
-  box-shadow: inset 0 0 0 0 #839FB4;
-  color: #325975;
-  margin: 0 -.25rem;
-  padding: 0 .25rem;
-  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-}
-.menuitem:hover {
-  box-shadow: inset 100px 0 0 0 #839FB4;
-  color: white;
-}
-
 .buttonArea {
   margin: auto;
   text-align: left;
@@ -705,7 +693,7 @@ button:hover {
     grid-column-start: 2;
   
     grid-row-end: 5;
-    grid-column-end: 3;
+    grid-column-end: 5;
     
   }
 
@@ -1217,4 +1205,16 @@ button:hover {
 
 #myBtn:hover {
   background-color: #244054;
+}
+
+.menuitem {
+  box-shadow: inset 0 0 0 0 #839FB4;
+  color: #325975;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+.menuitem:hover {
+  box-shadow: inset 100px 0 0 0 #839FB4;
+  color: white;
 }
