@@ -108,14 +108,13 @@ button:hover {
   font-family: 'Nunito'; 
 }
 
-#hellopart {
+#projectheader {
   background-color: #dae0e4 ; 
   grid-row-start: 2;
   grid-column-start: 1;
 
   grid-row-end: 3;
   grid-column-end: 7;
-  
 }
 
 
@@ -128,7 +127,6 @@ button:hover {
   margin-right: 20%;
   margin-top: 4%;
   margin-bottom: 4%; */
-
 }
 
 .pageheader{
@@ -140,7 +138,6 @@ button:hover {
   margin-right: 20%;
   margin-top: 4%;
   margin-bottom: 4%;
-
 }
 
 
@@ -150,7 +147,6 @@ button:hover {
 
   grid-row-end: 4;
   grid-column-end: 3;
-  
 }
 
 #project1 {
@@ -159,7 +155,6 @@ button:hover {
 
   grid-row-end: 5;
   grid-column-end: 4;
-  
 }
 
 #project2 {
@@ -168,7 +163,6 @@ button:hover {
 
   grid-row-end: 5;
   grid-column-end: 6;
-  
 }
 
 
@@ -178,7 +172,6 @@ button:hover {
 
   grid-row-end: 7;
   grid-column-end: 4;
-  
 }
 
 #project4 {
@@ -375,7 +368,7 @@ button:hover {
   grid-column-end: 6;
 }
 
-#projeExplanation{
+#projectExplanation{
   grid-row-start: 3;
   grid-column-start: 2;
   grid-row-end: 4;
@@ -408,21 +401,21 @@ button:hover {
   padding-left: 20px;
 }
 
-#ProjectInformation {
+#part1 {
   grid-row-start: 5;
   grid-column-start: 2;
   grid-row-end: 6;
   grid-column-end: 6;
 }
 
-#ProjectSummary {
+#part2 {
   grid-row-start: 6;
   grid-column-start: 2;
   grid-row-end: 7;
   grid-column-end: 6;
 }
 
-#ProjectProblem {
+#part3 {
 
   grid-row-start: 7;
   grid-column-start: 2;
@@ -431,14 +424,14 @@ button:hover {
 
 }
 
-#ProjectUserGoal {
+#part4 {
   grid-row-start: 8;
   grid-column-start: 2;
   grid-row-end: 9;
   grid-column-end: 6;
 }
 
-#ProjectSolution {
+#part5 {
   grid-row-start: 9;
   grid-column-start: 2;
   grid-row-end: 10;
@@ -446,21 +439,21 @@ button:hover {
 }
 
 
-#ProjectWireframes {
+#part6 {
   grid-row-start: 10;
   grid-column-start: 2;
   grid-row-end: 11;
   grid-column-end: 6;
 }
 
-#ProjectTools {
+#part7 {
   grid-row-start: 11;
   grid-column-start: 2;
   grid-row-end: 12;
   grid-column-end: 6;
 }
 
-#ProjectConclusion {
+#part8 {
   grid-row-start: 12;
   grid-column-start: 2;
   grid-row-end: 13;
