@@ -13,6 +13,6 @@ I developed this project in the year 2023. All code within this project belongs 
 
 For any questions or feedback, feel free to reach out to me:
 
-- Name: Deniz Caliskan
-- LinkedIn: https://www.linkedin.com/in/denizca/
+- Name: Ozge Caliskan
+- LinkedIn: https://www.linkedin.com/in/ozgeca/
 

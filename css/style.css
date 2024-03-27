@@ -146,7 +146,7 @@ button:hover {
   grid-column-start: 2;
 
   grid-row-end: 4;
-  grid-column-end: 3;
+  grid-column-end: 4;
 }
 
 #project1 {
@@ -749,6 +749,12 @@ button:hover {
 
   .projectsheader{
     font-size: 18px;
+  }
+
+  .note{
+    font-size: 5px;
+    color: #244054;
+    font-family: 'Nunito';
   }
 
   #menu {
